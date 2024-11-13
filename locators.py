@@ -1,0 +1,5 @@
+login_button_locator = "//a[contains(@class,'global_action_link')]"
+account_name_locator = "//div[@class='_3BkiHun-mminuTO-Y-zXke']//input[@type='text']"
+account_pass_locator = "//div[@class='_3BkiHun-mminuTO-Y-zXke']//input[@type='password']"
+sign_button_locator = "//button[@type='submit']"
+alert_message_locator = "//div[@class='_1W_6HXiG4JJ0By1qN_0fGZ']"
